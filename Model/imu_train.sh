@@ -2,7 +2,7 @@
 model_names=("IMU2SKE_v6_mask_5fold")
 learning_rates=(5e-3)  # 增加更多学习率选项
 epochs=(100)  # 增加更多epoch选项，覆盖短、中、长训练周期
-seeds=(0)  # 增加更多随机种子选项
+seeds=(76)  # 增加更多随机种子选项
 freeze_encoders=(False)
 clips=(True)
 dual_clips=(True)

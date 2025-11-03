@@ -1,0 +1,16 @@
+# torch==2.0.1
+# torchaudio==2.0.2
+# torchvision==0.15.2
+tqdm
+wandb
+pandas
+numpy
+matplotlib
+scipy
+scikit-learn
+onnx
+huggingface-hub
+seaborn
+opencv-python==4.10.0.84
+einops
+PIL
